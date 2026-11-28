@@ -1,0 +1,42 @@
+{
+  "schema": "kombify.windows-binary-release.v1",
+  "product_id": "workbench-desktop",
+  "artifact_id": "windows-client-local",
+  "app_id": "io.kombify.workbench.local.preview",
+  "variant": "local",
+  "channel": "preview",
+  "version": "0.5.3",
+  "source_sha": "0501b34cc15cbcd6a271558e811272916ce9b983",
+  "plan_digest": "sha256:396b431610ea1336ef6693209c803079efac2eedc02efb91fa9d3123669a959b",
+  "release_id": "workbench-desktop@0.5.3+0501b34cc15c",
+  "repository_id": 1420602652,
+  "assets": [
+    {
+      "name": "kombify-Workbench-Local-Preview-0.5.3-x64.msi",
+      "sha256": "6f7301586522ead9b76f141c30ef3a2145f6d390834bde2f1c11406f03da2235",
+      "size": 305221632
+    },
+    {
+      "name": "kombify-workbench-local-update-preview-x64.json",
+      "sha256": "01e1e234678c8f1d6b2a4d9d43485aa74b6f931c4bfa04055c18c16b7967f43a",
+      "size": 601
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "sha256": "f902db842bd1d27ed402414755dc2c2d924e0ee6eeda45a29514c8f0ec254c45",
+      "size": 410
+    },
+    {
+      "name": "THIRD-PARTY-NOTICES.md",
+      "sha256": "bf5a1709299a83a92484d513014200c531c3c6c675d59d9a4320cd6a462f237f",
+      "size": 1236
+    },
+    {
+      "name": "UNSIGNED-WINDOWS-RELEASE.txt",
+      "sha256": "0ea382dc933de20ecb76a4f6bc1cfac2aa8f849402cd1393302f482ee2bc9a02",
+      "size": 612
+    }
+  ],
+  "publication_run_id": "46140679797",
+  "build_artifact_digest": "sha256:9ad44691341938346fcb357983e88b26dcb9b5d97fcb6b32413f8cbde41a32a1"
+}
